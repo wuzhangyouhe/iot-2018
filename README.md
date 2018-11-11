@@ -21,18 +21,6 @@ $ sudo python get-pip.py
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 $ brew install python
 ```
-## Installation for pip tool for python library
-```
-$ sudo pip install numpy
-$ sudo pip install pandas
-$ sudo pip install SciPy
-$ sudo pip install scikit-learn
-$ sudo pip install matplotlib
-$ sudo pip install csvkit
-$ sudo pip install pydotplus
-$ sudo pip install graphviz
-$ sudo pip install Ipython
-```
 ## Installation for GTK3 backend for matplotlib (if unavailable)
 ```
 $ sudo apt-get install python-gi-cairo
